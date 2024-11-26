@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Tabs</string>
+
+    <string name="tcu">TCU</string>
+
+    <string name="cict">CICT</string>
+
+    <string name="my_profile">My Profile</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="motivated">Motivated by the urgent need to serve the youth of a burgeoning Taguig City, the Local Government Administration enacted Ordinance No. 29 series 2004, titled “An Ordinance Establishing the Pamantasan ng Taguig and Appropriating Funds Therefor.” This initiative was one of the offshoots of the provisions outlined in the Local Government Code.</string>
+
+    <string name="subsequently">Subsequently, Pamantasan ng Taguig underwent a renaming process and was rebranded as Taguig City University, following the enactment of City Ordinance No. 13, Series of 2009. </string>
+
+    <string name="all">All students enrolled at TCU are beneficiaries of the City’s scholarship program wherein their educational expenses are covered by funds allocated from the Taguig City Government, financed by the taxes of its residents.</string>
+
+    <string name="commitment">This commitment is aligned with the City Administration’s overarching goal of continually improving access to quality education, enhancing completion rates, fostering a culture of excellence among Taguig residents, and ultimately facilitating a better and more prosperous life for its populace.</string>
+
+    <string name="flour">TCU flourishes with the unwavering support of the Taguig City Government, under the leadership of Mayor Maria Laarni L. Cayetano, who has spearheaded the city into a Transformative, Lively, and Caring “PROBINSYUDAD™”</string>
+
+    <string name="has">TCU has garnered national recognition for its myriad of academic and extracurricular achievements.</string>
+
+    <string name="as">As a young institution, TCU showcases exemplary academic performance in board examinations, affirming its dedication to academic excellence.</string>
+
+    <string name="like">Likewise, it has proven its remarkable achievements in various fields such as cultural, scientific, technological, and sports in local, national, and international competitions. </string>
+
+    <string name="todo">TODO</string>
+
+    <string name="cict_title">College of Information and Communication Technology</string>
+
+
+    <string name="obj">OBJECTIVES\n\n
+            • To be able to provide competent learning in software engineering, system design, system development and project implementation.\n\n
+            • To prepare stakeholders in a research and development environment.\n\n
+            • To serve as an avenue of IT-related learning for continuous personnel and professional development.\n\n
+            • To ensure sustainable growth and collaboration in providing appropriate technical support to its clients.\n\n
+            • To engage in technopreneurship and practice professional ethics.\n\n
+            • To produce students and faculty that act as enablers, innovators, achievers, and leaders towards transforming into a globally competitive and responsible IT in the digital economy.\n\n
+            • To support the local government administration in fully achieving its ICT goals.</string>
+
+</resources>
